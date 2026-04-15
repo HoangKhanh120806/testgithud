@@ -1,13 +1,13 @@
-package com.example.testgit.ui.theme
+package com.example.testgit
 
 import androidx.compose.runtime.Composable
-import com.example.testgit.Greeting
+import com.example.testgit.ui.theme.TestgitTheme
 
-class addd {
+class sfjsbv {
+
 }
-
 @Composable
-fun GreetingPrevirte() {
+fun GreetingPrevie() {
     TestgitTheme {
         Greeting("Androizhfgsfgd")
     }
