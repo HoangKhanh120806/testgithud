@@ -9,6 +9,6 @@ class sfjsbv {
 @Composable
 fun GreetingPrevie() {
     TestgitTheme {
-        Greeting("Android")
+        Greeting("Androizhfgsfgd")
     }
 }
